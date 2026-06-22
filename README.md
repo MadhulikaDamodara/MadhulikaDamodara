@@ -1,39 +1,61 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-  Hi, I'm Damodara Lakshmi Madhulika!
-</h1>
+<!-- ANIMATED HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=200&section=header&text=Damodara%20Lakshmi%20Madhulika&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20IEEE%20WIE%20Vice%20Chair%20%7C%20Research%20Author%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=15&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=IT+Student+%40+CBIT+Hyderabad+%F0%9F%8E%93;IEEE+WIE+Vice+Chair+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC;Research+Author+%40+ICCSCM+2026+%F0%9F%8F%86;Full-Stack+%7C+AI%2FML+%7C+Cloud+%E2%98%81%EF%B8%8F;CGPA+9.71+%2F+10.0+%E2%9C%A8" alt="Typing SVG" />
-</p>
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=1A56DB&center=true&vCenter=true&width=680&lines=👋+Hi+there!+I'm+Madhulika;🎓+CBIT+Hyderabad+%7C+CGPA+9.71%2F10;👩‍💼+IEEE+WIE+Vice+Chair;🏆+Published+Researcher+%40+ICCSCM+2026;💻+Full-Stack+%7C+AI%2FML+%7C+Cloud+Builder;☁️+Microsoft+Azure+Certified+(AZ-900)" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/madhulika-damodara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:lakshmimadhulikadamodara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/MadhulikaDamodara"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MadhulikaDamodara&style=for-the-badge&color=1a56db" alt="Profile Views"/>
-</p>
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<div align="center">
+  <br/>
+  <a href="https://linkedin.com/in/madhulika-damodara">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lakshmimadhulikadamodara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MadhulikaDamodara">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MadhulikaDamodara&style=for-the-badge&color=1a56db&label=Profile+Views"/>
+  <br/><br/>
+</div>
 
 ---
 
-## 👩‍💻 About Me
+<!-- ABOUT ME -->
+## 🌊 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
 
 ```yaml
-name       : Damodara Lakshmi Madhulika
-college    : Chaitanya Bharathi Institute of Technology (A), Hyderabad
-degree     : B.E. Information Technology  (2024 – 2028)
-cgpa       : 9.71 / 10.0  (up to Sem III)
-role       : IEEE WIE Vice Chair · Research Author · Full-Stack Developer
-location   : Hyderabad, Telangana, India
-email      : lakshmimadhulikadamodara@gmail.com
-interests  : AI/ML · Web Dev · Data Science · IoT · Research
+👩‍🎓  Name     : Damodara Lakshmi Madhulika
+🏛️  College  : CBIT (A), Hyderabad  [2024 – 2028]
+📚  Degree   : B.E. Information Technology
+⭐  CGPA     : 9.71 / 10.0  (up to Semester III)
+👩‍💼  Role     : IEEE WIE Vice Chair
+🏆  Research : Published @ ICCSCM 2026
+📍  Location : Hyderabad, Telangana, India
+💌  Email    : lakshmimadhulikadamodara@gmail.com
 ```
 
-> 💙 *"Building at the intersection of AI, web, and impact — one commit at a time."*
+### 💙 What drives me
+- 🔭 Building **SmartRetailManager** — a full-stack retail intelligence ecosystem
+- 🌱 Learning **AZ-104** (Azure Administrator) & deepening ML skills
+- 👩‍🔬 Passionate about **research, real-world AI applications & open source**
+- ✨ Believe tech should be **accessible, impactful, and beautifully built**
+
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -43,7 +65,7 @@ interests  : AI/ML · Web Dev · Data Science · IoT · Research
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web & Databases**
+**Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -51,10 +73,14 @@ interests  : AI/ML · Web Dev · Data Science · IoT · Research
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data & Analytics**
+**Data & AI**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -67,77 +93,212 @@ interests  : AI/ML · Web Dev · Data Science · IoT · Research
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-1a56db?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
 
 ---
 
+<!-- PROJECTS -->
 ## 🚀 Featured Projects
 
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 🛒 | **[SmartRetailManager](https://github.com/MadhulikaDamodara)** | Full-stack retail intelligence platform — inventory, POS, loyalty & B2B marketplace with BNPL | Node.js · React · MongoDB · PostgreSQL |
-| 🌐 | **[Yojantha](https://github.com/MadhulikaDamodara)** | AI-powered government scheme discovery for underserved populations with multilingual UI | Python · AI/ML · React · Node.js |
-| 🌾 | **[AgriField](https://github.com/MadhulikaDamodara)** | Smart agriculture platform — AI crop recommendations, farmer community & investor connect (SIH) | React · Node.js · MongoDB |
-| 📚 | **Interactive Learning Platform** | Animated DSA & SQL execution simulations making abstract concepts visual | React · Visualization Libraries |
-| 📈 | **SPARK** | Stock portfolio analysis using ARIMAX regression for time-series forecasting | Python · Data Science |
-| ♟ | **[Chess in C](https://github.com/MadhulikaDamodara)** | Fully functional two-player chess with move validation & checkmate detection | C |
-| 🌱 | **Smart Plant Monitor** | IoT system tracking temperature, humidity & soil moisture for plant care | IoT · Arduino |
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 SmartRetailManager
+**Full-Stack Retail Intelligence Platform**
+
+A unified digital ecosystem for offline retail stores connecting Sellers, Buyers & Customers.
+
+- ⚙️ Automated inventory & expiry monitoring
+- 💰 B2B sourcing marketplace with bidding
+- 🎁 Tier-based loyalty & smart discounts
+- 🕐 Cron-based daily background job engine
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a56db?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+![Status](https://img.shields.io/badge/Status-Ongoing-f59e0b?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Yojantha
+**AI-Powered Government Scheme Discovery**
+
+Helps users discover relevant government welfare schemes via AI-based recommendations.
+
+- 🤖 AI recommendation engine by user profile
+- 🌍 Multilingual interface for accessibility
+- 👥 Designed for underserved populations
+- 🎯 Intuitive, simplicity-first design
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a56db?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 AgriField
+**Smart Agriculture Platform — Smart India Hackathon**
+
+Comprehensive platform for farmers to buy seeds, get AI crop recommendations & attract investors.
+
+- 🌱 AI-based crop recommendation engine
+- 💼 Investor-farmer connection module
+- 🤝 Farmer community & marketplace
+- 🏗️ Full project architecture & web UI
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a56db?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+![Status](https://img.shields.io/badge/SIH-Team_Project-3b82f6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Interactive Learning Platform
+**Animated DSA & SQL Simulations**
+
+Educational platform with animated visualizations of how DSA code executes and how SQL queries are processed step by step.
+
+- 🎬 Animated algorithm execution traces
+- 🗄️ Live SQL query step-by-step processing
+- 👁️ Visual-first, intuition-building design
+- 📐 Abstract concepts made tangible
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a56db?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+![Status](https://img.shields.io/badge/Status-Ongoing-f59e0b?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📈 SPARK
+**Stock Portfolio ARIMAX Regression Kit**
+
+Stock portfolio analysis tool using ARIMAX regression for time-series forecasting & performance evaluation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+[![Report](https://img.shields.io/badge/View_Report-1a56db?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+![Status](https://img.shields.io/badge/Data_Science-Completed-22c55e?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### ♟️ Chess Game in C
+**Fully Functional Two-Player Chess**
+
+Text-based chess engine with full move validation, check & checkmate detection, and board rendering.
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a56db?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
+<!-- RESEARCH & LEADERSHIP -->
 ## 📄 Research & Leadership
 
-- 🏆 **Research Author** — *Dynamic Task Scheduler* — Published @ **ICCSCM 2026**
-  > C++ system with subtask hierarchies, dependency management, deadline reminders & persistent file storage
+<div align="center">
 
-- 🔬 **Research Contributor** — Traffic Violation Detection using YOLO object detection models *(2024)*
+| 🏅 | Role | Details | Year |
+|---|------|---------|------|
+| 🏆 | **Research Author** | *Dynamic Task Scheduler* — Published @ **ICCSCM 2026** (C++ · subtask hierarchies, dependency mgmt, file persistence) | 2025 |
+| 🔬 | **Research Contributor** | Traffic Violation Detection using **YOLO** object detection models (faculty paper) | 2024 |
+| 👩‍💼 | **IEEE WIE Vice Chair** | Leading women-in-tech events & mentorship @ **CBIT Student Branch** | 2025–Now |
+| 🌟 | **Executive Board** | VMedha Technical Club · Co-organized **IEEE WIE Women Ideathon** & CSI events | 2024–2025 |
+| 🤝 | **Student Volunteer** | RMC Mathematical Club & Chaitanya Srujana Art & Design Club | 2024–Now |
 
-- 👩‍💼 **Vice Chair** — IEEE Women in Engineering, CBIT Student Branch *(2025 – Present)*
-  > Leading initiatives to promote women in technology through events & mentorship
-
-- 🌟 **Executive Board Member** — VMedha Technical Club · Co-organized IEEE WIE Women Ideathon *(2024 – 2025)*
-
-- 🤝 **Student Volunteer** — RMC Mathematical Club & Chaitanya Srujana Art & Design Club *(2024 – Present)*
+</div>
 
 ---
 
+<!-- CERTIFICATIONS -->
 ## 🏅 Certifications & Achievements
 
-![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft_Certified-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![IBM AI](https://img.shields.io/badge/Applied_AI-IBM_SkillsBuild-1F70C1?style=flat-square&logo=ibm&logoColor=white)
-![NPTEL](https://img.shields.io/badge/Generative_AI-NPTEL-F7941D?style=flat-square&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Agent_Blazer_Champion-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![AI Systems](https://img.shields.io/badge/AI_Autonomous_Systems-Intl_Training_2_Weeks-6366f1?style=flat-square)
-![Hackathon](https://img.shields.io/badge/Smallest_AI_Hackathon-Participant-22c55e?style=flat-square)
+<div align="center">
+
+![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft_Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![IBM AI](https://img.shields.io/badge/Applied_AI-IBM_SkillsBuild-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
+![NPTEL](https://img.shields.io/badge/Generative_AI-NPTEL-F7941D?style=for-the-badge)
+![Salesforce](https://img.shields.io/badge/Agent_Blazer_Champion-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![AI Autonomous](https://img.shields.io/badge/AI_Autonomous_Systems-2_Week_Intl_Program-6366f1?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/Smallest_AI_Hackathon-Participant-22c55e?style=for-the-badge)
+
+<br/>
 
 > 🔄 Currently pursuing **AZ-104** — Microsoft Azure Administrator
 
+</div>
+
 ---
 
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MadhulikaDamodara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhulikaDamodara&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MadhulikaDamodara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhulikaDamodara&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&border_radius=12" />
+</div>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MadhulikaDamodara&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/madhulika-damodara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:lakshmimadhulikadamodara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/MadhulikaDamodara"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-📍 Hyderabad, Telangana &nbsp;·&nbsp; 📞 9949619556
+<div align="center">
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=MadhulikaDamodara&theme=tokyonight&hide_border=true&border_radius=12" />
+</div>
 
 ---
 
-<p align="center">
-  <em>💙 Made with passion · D.L. Madhulika · CBIT 2024–2028</em>
-</p>
+<!-- ACTIVITY GRAPH -->
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhulikaDamodara&theme=tokyo-night&bg_color=0d1117&color=1a56db&line=1a56db&point=60a5fa&area=true&hide_border=true&radius=12" width="95%"/>
+</div>
+
+---
+
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=120&section=footer&text=💙+Let's+build+something+amazing+together!&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <em>Made with 💙 by D.L. Madhulika &nbsp;·&nbsp; CBIT 2024–2028 &nbsp;·&nbsp; Hyderabad, India</em>
+</div>
