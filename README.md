@@ -37,7 +37,7 @@
 🏛️  College  : CBIT (A), Hyderabad  [2024 – 2028]
 📚  Degree   : B.E. Information Technology
 ⭐  CGPA     : 9.71 / 10.0
-👩‍💼  Role     : IEEE WIE Vice Chair
+👩‍💼  Role     : IEEE WIE Vice Chair,Executive Board VMedha-Tech For Social Good Club
 🏆  Research : Published @ ICCSCM 2026
 📍  Location : Hyderabad, Telangana, India
 💌  Email    : lakshmimadhulikadamodara@gmail.com
@@ -223,9 +223,9 @@ Text-based chess with full move validation, check & checkmate detection.
 | 🏅 | Role | Details | Year |
 |---|------|---------|------|
 | 🏆 | **Research Author** | *Dynamic Task Scheduler* — Published @ **ICCSCM 2026** (C++) | 2025 |
-| 🔬 | **Research Contributor** | Traffic Violation Detection using **YOLO** (faculty paper) | 2024 |
-| 👩‍💼 | **IEEE WIE Vice Chair** | Women-in-tech events & mentorship @ CBIT Student Branch | 2025–Now |
-| 🌟 | **Executive Board** | VMedha Technical Club · IEEE WIE Women Ideathon · CSI events | 2024–2025 |
+| 🔬 | **Research Contributor** | Traffic Violation Detection using **YOLO** (faculty paper) | 2025 |
+| 👩‍💼 | **IEEE WIE Vice Chair** | Women-in-tech events & mentorship @ CBIT Student Branch | 2026–Now |
+| 🌟 | **Executive Board** | VMedha Technical Club · IEEE WIE Women Ideathon · CSI events | 2025–Now |
 | 🤝 | **Student Volunteer** | RMC Mathematical Club & Chaitanya Srujana Art & Design Club | 2024–Now |
 
 </div>
