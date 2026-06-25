@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=4D8EF0&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Madhulika+%F0%9F%91%8B;CBIT+Hyderabad+%7C+CGPA+9.71%2F10+%F0%9F%8E%93;IEEE+WIE+Vice+Chair+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC;Published+Researcher+%40+ICCSCM+2026+%F0%9F%8F%86;Full-Stack+%7C+AI%2FML+%7C+Cloud+Builder+%F0%9F%92%BB;Microsoft+Azure+Certified+AZ-900+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=4D8EF0&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+I'm+Madhulika+%F0%9F%91%8B;CBIT+Hyderabad+%7C+CGPA+9.71%2F10+%F0%9F%8E%93;IEEE+WIE+Vice+Chair+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC;Researcher+%40+ICCSCM+2026+%F0%9F%8F%86;Full-Stack+%7C+AI%2FML+%7C+Cloud+Builder+%F0%9F%92%BB;Microsoft+Azure+Certified+AZ-900+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br/>
