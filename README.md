@@ -43,7 +43,7 @@
 💌  Email    : lakshmimadhulikadamodara@gmail.com
 ```
 
-- 🔭 Building **SmartRetailManager** — full-stack retail intelligence platform
+- 🔭 Building **Visual Learning Platform** — full-stack intelligence/learning platform
 - 🌱 Pursuing **AZ-104** Azure Administrator certification
 - 👩‍🔬 Passionate about research, real-world AI & open source
 - 💙 Believe tech should be accessible, impactful & beautifully built
