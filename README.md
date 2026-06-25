@@ -120,7 +120,7 @@ Unified digital ecosystem for offline retail connecting Sellers, Buyers & Custom
 ![MongoDB](https://img.shields.io/badge/MongoDB-4d8ef0?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4d8ef0?style=flat-square&logo=postgresql&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-4d8ef0?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+[![Repo](https://img.shields.io/badge/View_Repo-4d8ef0?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara/Retail-Manager)
 
 </td>
 <td width="50%" valign="top">
@@ -139,7 +139,7 @@ Helps users discover government welfare schemes via AI-based recommendations.
 ![React](https://img.shields.io/badge/React-6aa3f5?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6aa3f5?style=flat-square&logo=nodedotjs&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-6aa3f5?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+[![Repo](https://img.shields.io/badge/View_Repo-6aa3f5?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara/Yojanta)
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ Platform for farmers to buy seeds, get AI crop recommendations & attract investo
 ![Node.js](https://img.shields.io/badge/Node.js-3a7bd5?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-3a7bd5?style=flat-square&logo=mongodb&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-3a7bd5?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+[![Repo](https://img.shields.io/badge/View_Repo-3a7bd5?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara/AgriField)
 
 </td>
 <td width="50%" valign="top">
@@ -177,7 +177,7 @@ Animated visualizations of DSA execution & SQL query processing step by step.
 ![React](https://img.shields.io/badge/React-4d8ef0?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-4d8ef0?style=flat-square&logo=nodedotjs&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-4d8ef0?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+[![Repo](https://img.shields.io/badge/View_Repo-4d8ef0?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara/visual-learning-platform)
 
 </td>
 </tr>
@@ -194,7 +194,7 @@ ARIMAX regression for time-series stock forecasting & portfolio performance eval
 ![Pandas](https://img.shields.io/badge/Pandas-6aa3f5?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-6aa3f5?style=flat-square&logo=numpy&logoColor=white)
 
-[![Report](https://img.shields.io/badge/View_Report-6aa3f5?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+[![Report](https://img.shields.io/badge/View_Report-6aa3f5?style=flat-square&logo=github&logoColor=white)](https://github.com/KarlapatiNandu/StockPortfolios)
 
 </td>
 <td width="50%" valign="top">
@@ -206,7 +206,7 @@ Text-based chess with full move validation, check & checkmate detection.
 
 ![C](https://img.shields.io/badge/C-3a7bd5?style=flat-square&logo=c&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-3a7bd5?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara)
+[![Repo](https://img.shields.io/badge/View_Repo-3a7bd5?style=flat-square&logo=github&logoColor=white)](https://github.com/MadhulikaDamodara/chess-game-c)
 
 </td>
 </tr>
