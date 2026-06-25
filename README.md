@@ -165,7 +165,7 @@ Platform for farmers to buy seeds, get AI crop recommendations & attract investo
 </td>
 <td width="50%" valign="top">
 
-### 📚 Interactive Learning Platform
+### 📚 Visual Learning Platform
 **Animated DSA & SQL Simulations**
 
 Animated visualizations of DSA execution & SQL query processing step by step.
