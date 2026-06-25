@@ -12,7 +12,7 @@
 
 <!-- SOCIAL BADGES — all #4d8ef0 -->
 <div align="center">
-  <a href="https://linkedin.com/in/madhulika-damodara">
+  <a href="https://www.linkedin.com/in/damodara-lakshmi-madhulika-402532324/">
     <img src="https://img.shields.io/badge/LinkedIn-4d8ef0?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:lakshmimadhulikadamodara@gmail.com">
