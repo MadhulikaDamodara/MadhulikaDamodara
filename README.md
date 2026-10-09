@@ -38,9 +38,9 @@
 📚  Degree   : B.E. Information Technology
 ⭐  CGPA     : 9.71 / 10.0
 👩‍💼  Role     : IEEE WIE Vice Chair,Executive Board VMedha-Tech For Social Good Club
-🏆  Research : Paper Accepted @ ICCSCM 2026
+🔍  Research : Paper Accepted @ ICCSCM 2026
 📍  Location : Hyderabad, Telangana, India
-💌  Email    : lakshmimadhulikadamodara@gmail.com
+✉︎  Email    : lakshmimadhulikadamodara@gmail.com
 ```
 
 - 🔭 Building **Visual Learning Platform** — full-stack intelligence/learning platform
